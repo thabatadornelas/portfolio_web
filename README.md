@@ -6,7 +6,7 @@ Hi there, I'm Thabata Dornelas, a Jr. Software Developer from Brazil. Currently 
 - Love (love love love!) communicating in English;
 - Usually I'm found coding while taking a big sip of coffee! :coffee:
 
-Main languages I work with, some tools and frameworks:
+Languages, tools and frameworks:
 <p align="left">
   <code>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" height="40"/> 
