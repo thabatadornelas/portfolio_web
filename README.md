@@ -21,10 +21,10 @@ Languages, tools and frameworks:
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thabatadornelas&layout=compact&theme=light&title_color=268bd2" alt="thabatadornelas" width="400" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thabatadornelas&layout=compact&theme=light&title_color=268bd2" alt="thabatadornelas" width="450" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thabatadornelas&count_private=true&show_icons=true&theme=light&icon_color=268bd2&title_color=268bd2" alt="thabatadornelas" width="400"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thabatadornelas&count_private=true&show_icons=true&theme=light&icon_color=268bd2&title_color=268bd2" alt="thabatadornelas" width="450"/>
 </p>
 
 
