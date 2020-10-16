@@ -1,10 +1,10 @@
 # Thabata Dornelas [![Linkedin Badge](https://img.shields.io/badge/-thabatadornelas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/thabatadornelas/)](https://www.linkedin.com/in/thabatadornelas/) [![Gmail Badge](https://img.shields.io/badge/-dornelasthabata@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dornelasthabata@gmail.com)](mailto:dornelasthabata@gmail.com)
 
-Hi there, I'm Thabata Dornelas, a Software Developer from Brazil. Currently I'm working at [Qesh Payments](https://www.https://app.qesh.ai//)! :computer:.
+Hi there, I'm Thabata Dornelas, a Jr. Software Developer from Brazil. Currently I'm working at [Qesh Payments](https://www.https://app.qesh.ai//)! :computer:.
 
 - Learning about technology is one of my true passions (my Youtube History is a big proof of that);
 - Love (love love love!) communicating in English;
-- Usually I'm found coding while singing and taking a big sip of coffee :dancing: :coffee:;
+- Usually I'm found coding while singing and taking a big sip of coffee :dance: :coffee:;
 
 Main languages I work with, some tools and frameworks:
 <p align="left">
@@ -21,10 +21,10 @@ Main languages I work with, some tools and frameworks:
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thabatadornelas&layout=compact&theme=light&title_color=268bd2" alt="thabatadornelas" width="200" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thabatadornelas&layout=compact&theme=light&title_color=268bd2" alt="thabatadornelas" width="400" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thabatadornelas&count_private=true&show_icons=true&theme=light&icon_color=268bd2&title_color=268bd2" alt="thabatadornelas" width="200"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thabatadornelas&count_private=true&show_icons=true&theme=light&icon_color=268bd2&title_color=268bd2" alt="thabatadornelas" width="400"/>
 </p>
 
 
