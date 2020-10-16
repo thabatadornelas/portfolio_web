@@ -4,7 +4,7 @@ Hi there, I'm Thabata Dornelas, a Jr. Software Developer from Brazil. Currently 
 
 - Learning about technology is one of my true passions (my Youtube History is a big proof of that);
 - Love (love love love!) communicating in English;
-- Usually I'm found coding while singing and taking a big sip of coffee! ¯\_(ツ)_/¯ :coffee:
+- Usually I'm found coding while singing and taking a big sip of coffee! :coffee:
 
 Main languages I work with, some tools and frameworks:
 <p align="left">
